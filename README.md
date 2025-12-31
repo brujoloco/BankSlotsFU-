@@ -17,9 +17,9 @@ This addon is a perfect companion to **BagSlotsFu**, allowing players to monitor
    git clone https://github.com/your-repo/BankSlotsFu.git
 
 
-2. Move the BankSlotsFu folder to your WoW AddOns directory:
+2. If you prefer to do it manually move the BankSlotsFu folder to your WoW AddOns directory:
 
-   World of Warcraft\Interface\AddOns\
+   World of Warcraft Folder \Interface\AddOns\
 
 3. Restart World of Warcraft and enable BankSlotsFu in the AddOns menu.
 
