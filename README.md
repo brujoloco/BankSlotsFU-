@@ -14,7 +14,7 @@ This addon is a perfect companion to **BagSlotsFu**, allowing players to monitor
 ## Installation
 1. Download manually, or if your patcher allows it add the repository:
    ```bash
-   https://github.com/your-repo/BankSlotsFu.git
+   https://github.com/brujoloco/BankSlotsFu.git
 
 2. Let your patcher handle the install, select it on your patcher to enable it
 
