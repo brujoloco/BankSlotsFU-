@@ -12,16 +12,17 @@ This addon is a perfect companion to **BagSlotsFu**, allowing players to monitor
 - **Lightweight and Efficient**: Specifically optimized for WoW 1.12 without modern bloat.
 
 ## Installation
-1. Download or clone the repository:
+1. Download manually, or if your patcher allows it add the repository:
    ```bash
-   git clone https://github.com/your-repo/BankSlotsFu.git
+   https://github.com/your-repo/BankSlotsFu.git
 
+2. Let your patcher handle the install, select it on your patcher to enable it
 
-2. If you prefer to do it manually move the BankSlotsFu folder to your WoW AddOns directory:
+3. If you prefer to do it manually move the BankSlotsFu folder to your WoW AddOns directory:
 
    World of Warcraft Folder \Interface\AddOns\
 
-3. Restart World of Warcraft and enable BankSlotsFu in the AddOns menu.
+3. Start World of Warcraft and enable BankSlotsFu in the AddOns menu.
 
 ## Usage
 
